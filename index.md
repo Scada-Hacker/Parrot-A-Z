@@ -2,7 +2,7 @@
 
 Welcome to the Parrot OS A to Z Of Tricks, Tactics and Hacking Tutorials
 
-Before we start, Its a good idea to get some learninging. And the best way to learn is to practise (legally)
+Before we start, Its a good idea learn the basics. And the best way to learn is to practise (legally)
 
 https://academy.hackthebox.eu/catalogue
 https://attackdefense.com/
@@ -15,7 +15,7 @@ https://www.root-me.org/
 https://tryhackme.com/
 https://www.vulnhub.com/
 
-
+## The List
 
 - Android
   - Sub-item 1
