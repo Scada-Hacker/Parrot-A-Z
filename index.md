@@ -52,6 +52,9 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 - Radare
   - Sub-Item
   -
+ - Reconnisance
+  - Sub-Item
+  - 
 - r2frida
   - Sub-Item
   -
@@ -62,4 +65,6 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-Item
   -
 - Wireless
+  - Sub-Item
+- Windows
   - Sub-Item
