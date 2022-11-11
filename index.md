@@ -32,7 +32,7 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 - Bug Bounty Programs
   - <a href="https://www.bugcrowd.com/">BugCrowd</a>
   - <a href="https://www.hackerone.com/">HackerOne</a>
-  - <a hrer="https://www.intigriti.com/">Intigriti</a>
+  - <a href="https://www.intigriti.com/">Intigriti</a>
   - <a href="https://www.yeswehack.com/">Yes We Hack</a>
 - Brute Force
   - Sub-item 1
