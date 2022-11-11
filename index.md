@@ -20,7 +20,7 @@ https://www.vulnhub.com/
 - Android
   - Sub-item 1
   - Sub-item 2
-- BugBounty Programs
+- Bug Bounty Programs
   - Bug Crowd
   - HackerOne
   - Intigriti
