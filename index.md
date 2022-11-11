@@ -4,7 +4,7 @@ __Welcome to the Parrot OS A to Z of Tricks, Tactics and Hacking Tutorials__
 
 Before we start, Its a good idea learn the basics. And the best way to learn is to practise (legally)
 
-https://academy.hackthebox.eu/catalogue/
+[Hack The Box} (https://academy.hackthebox.eu/catalogue/)
 https://attackdefense.com/
 https://crackmes.one/
 https://www.hacker101.com/
