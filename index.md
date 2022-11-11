@@ -34,6 +34,9 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - HackerOne
   - Intigriti
   - Yes We Hack
+- Brute Force
+  - Sub-item 1
+  - Sub-item 2
 - Frida
   - Sub-item 1
   - Sub-item 2 
