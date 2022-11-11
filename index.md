@@ -25,4 +25,8 @@ https://www.vulnhub.com/
   - HackerOne
   - Intigriti
   - Yes We Hack
--  
+- Frida
+  - Sub-item 1
+  - Sub-item 2
+- Radare
+  - r2frida
