@@ -39,7 +39,10 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-item 2
 - Frida
   - Sub-item 1
-  - Sub-item 2 
+  - Sub-item 2
+- Forensics
+  - Sub Item
+  -
 - IOT
   - Sub-Item
   -
