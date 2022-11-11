@@ -52,6 +52,9 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 - Methodology
   - Sub-Item
   -
+- Networking 
+  - Sub-Item
+  -
 - Phishing
   - Sub-Item
   -
