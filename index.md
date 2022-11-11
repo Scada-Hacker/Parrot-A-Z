@@ -36,7 +36,7 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Yes We Hack
 - Frida
   - Sub-item 1
-  - Sub-item 2
+  - Sub-item 2 
 - IOT
   -
   -
