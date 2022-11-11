@@ -40,10 +40,16 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 - IOT
   -
   -
+- ICS
+  -
+  -
 - Methodology
   -
   -
 - Phishing
+  -
+  -
+- Social Media
   -
   -
 - Radare
