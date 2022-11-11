@@ -37,6 +37,9 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 - Brute Force
   - Sub-item 1
   - Sub-item 2
+- Forensics
+  - Sub Item
+  -
 - Frida
   - Sub-item 1
   - Sub-item 2
