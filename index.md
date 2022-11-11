@@ -1,6 +1,6 @@
 # Parrot A-Z 
 
-Welcome to the Parrot OS A to Z Of Tricks, Tactics and Hacking Tutorials
+__Welcome to the Parrot OS A to Z Of Tricks, Tactics and Hacking Tutorials__
 
 Before we start, Its a good idea learn the basics. And the best way to learn is to practise (legally)
 
