@@ -41,21 +41,22 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-Item
   -
 - ICS
-  -
+  - Sub-Item
   -
 - Methodology
-  -
+  - Sub-Item
   -
 - Phishing
-  -
+  - Sub-Item
   -
 - Radare
-  -
+  - Sub-Item
   -
 - r2frida
-  -
+  - Sub-Item
   -
 - Social Media
-  -
+  - Sub-Item
   -
 - Wireless
+  - Sub-Item
