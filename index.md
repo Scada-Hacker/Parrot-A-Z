@@ -30,10 +30,10 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-item 1
   - Sub-item 2
 - Bug Bounty Programs
-  - Bug Crowd
+  - <a href="https://www.bugcrowd.com/">BugCrowd</a>
   - <a href="https://www.hackerone.com/">HackerOne</a>
-  - Intigriti
-  - Yes We Hack
+  - <a hrer="https://www.intigriti.com/">Intigriti</a>
+  - <a href="https://www.yeswehack.com/">Yes We Hack</a>
 - Brute Force
   - Sub-item 1
   - Sub-item 2
