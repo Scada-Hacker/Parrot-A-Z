@@ -38,7 +38,7 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-item 1
   - Sub-item 2 
 - IOT
-  -
+  - Sub-Item
   -
 - ICS
   -
