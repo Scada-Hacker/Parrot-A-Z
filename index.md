@@ -31,7 +31,7 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-item 2
 - Bug Bounty Programs
   - Bug Crowd
-  - HackerOne
+  - <a href="https://www.hackerone.com/">HackerOne</a>
   - Intigriti
   - Yes We Hack
 - Brute Force
