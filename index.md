@@ -49,9 +49,13 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 - Phishing
   -
   -
+- Radare
+  -
+  -
+- r2frida
+  -
+  -
 - Social Media
   -
   -
-- Radare
-  - r2frida
 - Wireless
