@@ -5,15 +5,16 @@ __Welcome to the Parrot OS A to Z of Tricks, Tactics and Hacking Tutorials__
 Before we start, Its a good idea learn the basics. And the best way to learn is to practise (legally)
 
 [Hack The Box](https://academy.hackthebox.eu/catalogue/)
+
 [AttackDefense](https://attackdefense.com/)
-https://crackmes.one/
-https://www.hacker101.com/
-https://www.hackthebox.eu/
-https://www.hackthissite.org/missions/basic/
-https://portswigger.net/web-security/dashboard/
-https://www.root-me.org/
-https://tryhackme.com/
-https://www.vulnhub.com/
+[CrackMe](https://crackmes.one/)
+[Hacker101](https://www.hacker101.com/)
+[Hack The Box](https://www.hackthebox.eu/)
+[Hack This Site](https://www.hackthissite.org/missions/basic/)
+[Portswigger](https://portswigger.net/web-security/dashboard/)
+[TryRootMe](https://www.root-me.org/)
+[TryHackMe](https://tryhackme.com/)
+[VulnHub](https://www.vulnhub.com/)
 
 ## The List
 
