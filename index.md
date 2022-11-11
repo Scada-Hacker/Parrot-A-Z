@@ -37,5 +37,15 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 - Frida
   - Sub-item 1
   - Sub-item 2
+- IOT
+  -
+  -
+- Methodology
+  -
+  -
+- Phishing
+  -
+  -
 - Radare
   - r2frida
+- Wireless
