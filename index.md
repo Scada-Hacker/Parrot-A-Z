@@ -59,12 +59,9 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-Item
   -
 - Radare
-  - Sub-Item
-  -
+  - radare
+  - r2frida
 - Reconnisance
-  - Sub-Item
-  - 
-- r2frida
   - Sub-Item
   -
 - Social Media
