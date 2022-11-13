@@ -1,4 +1,4 @@
-# Android Security Model
+# Android Security
 
 This Document is a combination of my own knowledge and information i have found.
 
