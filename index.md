@@ -47,7 +47,7 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   - Sub-Item
   -
 - ICS
-  - The Perdue Model
+  - [The Perdue Model](https://github.com/RG-Belasco/Parrot-A-Z/blob/main/ICS-Purdue.md)
   - ICS Network Protocols
 - Methodology
   - Sub-Item
