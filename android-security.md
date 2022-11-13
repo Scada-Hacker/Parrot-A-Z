@@ -1,6 +1,6 @@
 # Android Security Model
 
-This Document is a combination of my own knowledge and information i have found
+## This Document is a combination of my own knowledge and information i have found
 
 The following link is a whitepaper describing the Android Security Model  
 
