@@ -60,7 +60,7 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
   -
 - Radare
   - radare
-  - r2frida
+  - [r2frida](https://github.com/RG-Belasco/Parrot-A-Z/blob/main/r2frida.md)
 - Reconnisance
   - Sub-Item
   -
