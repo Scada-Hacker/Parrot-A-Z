@@ -27,7 +27,7 @@ Before we start, Its a good idea learn the basics. And the best way to learn is 
 ## The List
  
 - Android
-  - [Android Security Model](https://github.com/RG-Belasco/Parrot-A-Z/blob/main/android-security.md)
+  - [Android Security / Testing](https://github.com/RG-Belasco/Parrot-A-Z/blob/main/android-security.md)
   - Sub-item 2
 - Bug Bounty Programs
   - <a href="https://www.bugcrowd.com/">BugCrowd</a>
