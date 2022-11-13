@@ -1,6 +1,6 @@
 # Android Security Model
 
-__This Document is a combination of my own knowledge and information i have found.__
+This Document is a combination of my own knowledge and information i have found.
 
 __Android Security Model__  
 
