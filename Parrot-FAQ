@@ -1,1 +1,39 @@
+FAQ
 
+1. Help - I have a problem installing the OS !
+
+Ok. Dont worry
+
+Go to one of the various social media outlets, Telegram, Discord, Form (Links are on the parrot website)
+
+Go to the correct section (Support)
+
+Clearly explain the issue and provide as much informastion as possible, with clear photos where possible
+
+If advised to check pinned messages or posted solutions - do so. We will be able to tell if you havent.
+
+DO NOT :
+
+Ask to ask
+
+Demand it gets fixed
+
+Post photos taken with your mobile, where we can only see your head obscuring the screen
+
+Post photos sideways
+
+Post shaky videos that causae motion sickness
+
+Crosspost the same issue to every group
+
+2. How can I log in as root ?
+
+Short answer - you dont
+
+It defeats the security model that's been in place for years. Applications are meant to be run with non-administrative privellages to prevent damagwe to the core OS. By running the system as root you could potentially allow an attacker to gain a ROOT shell and take over your system.
+
+If this is asked persistently, please dont be offended if your message is removed, or you receive a warning.
+
+3. I want to ad X repository to my system
+
+Please try to avoid doing this. It can cause conflict with the default parrot mirrors.If something breaks by doing this we cant help.
